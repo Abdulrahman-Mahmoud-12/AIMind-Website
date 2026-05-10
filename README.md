@@ -6,9 +6,6 @@ in a visually engaging way. The experience feels like exploring
 the brain of an AI system, combining rich visuals, video, animations,
 and interactivity built entirely with HTML CSS and JavaScript.
 
-## Live Demo
-> https://username.github.io/ai-mind-website
-
 ## Features
 - 🎬 AI-generated background video in hero section
 - ✍️ Animated typing text effect cycling through AI quotes
@@ -66,27 +63,27 @@ ai-mind-website/
 ### Images
 | Filename | Description | Generated With |
 |---|---|---|
-| logo.png | AI brain circuit logo transparent | Ideogram.ai |
-| hero-brain.png | Holographic AI brain floating | Adobe Firefly |
-| bg-particles.jpg | Dark neural network background | Bing Image Creator |
-| ai-healthcare.jpg | Doctor with AI hologram interface | Adobe Firefly |
-| ai-car.jpg | Autonomous car with sensor rings | Adobe Firefly |
-| ai-chatbot.jpg | Glowing AI chatbot hologram | Adobe Firefly |
-| ai-art.jpg | Robot painting on holographic canvas | Adobe Firefly |
-| turing.jpg | Alan Turing stylized portrait | Adobe Firefly |
-| deepblue.jpg | IBM Deep Blue chess scene | Adobe Firefly |
-| genai.jpg | Generative AI data streams | Bing Image Creator |
-| agi-future.jpg | Human and robot handshake | Adobe Firefly |
-| favicon.ico | Minimal brain icon 32x32 | favicon.io |
+| logo.png | AI brain circuit logo transparent | Gemini |
+| hero-brain.png | Holographic AI brain floating | Gemini |
+| bg-particles.jpg | Dark neural network background | Gemini |
+| ai-healthcare.jpg | Doctor with AI hologram interface | Gemini |
+| ai-car.jpg | Autonomous car with sensor rings | Gemini |
+| ai-chatbot.jpg | Glowing AI chatbot hologram | Gemini |
+| ai-art.jpg | Robot painting on holographic canvas | Gemini |
+| turing.jpg | Alan Turing stylized portrait | Gemini |
+| deepblue.jpg | IBM Deep Blue chess scene | Gemini |
+| genai.jpg | Generative AI data streams | Gemini |
+| agi-future.jpg | Human and robot handshake | Gemini |
+| favicon.ico | Minimal brain icon 32x32 | Gemini |
 
 ### Videos
 | Filename | Duration | Description | Generated With |
 |---|---|---|---|
-| hero-bg.mp4 | 20s loop | Dark particle neural network | Kling AI |
-| demo-healthcare.mp4 | 30s | AI medical hologram scene | Runway ML |
-| demo-car.mp4 | 30s | Autonomous car night highway | Hailuo AI |
-| demo-chatbot.mp4 | 20s | Futuristic chat interface | Runway ML |
-| demo-art.mp4 | 30s | AI art generation reveal | Pika Labs |
+| hero-bg.mp4 | 5s loop | Dark particle neural network | PixVerse |
+| demo-healthcare.mp4 | 5s | AI medical hologram scene | PixVerse |
+| demo-car.mp4 | 8s | Autonomous car night highway | PixVerse |
+| demo-chatbot.mp4 | 6s | Futuristic chat interface | PixVerse |
+| demo-art.mp4 | 7s | AI art generation reveal | PixVerse |
 
 Note: All demo videos contain their own internal audio tracks.
 The hero-bg.mp4 plays muted as it is a decorative background only.
