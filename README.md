@@ -97,7 +97,7 @@ The hero-bg.mp4 plays muted as it is a decorative background only.
 
 2. Navigate into the folder:
    ```bash
-   cd AIMind-Wgit ebsite
+   cd AIMind-Website
    ```
 
 3. Add your asset files:
